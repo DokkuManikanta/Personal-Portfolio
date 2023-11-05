@@ -1,0 +1,78 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+  background: url(image.jpg);
+  background-repeat: no-repeat;
+  background-size:100%;
+  text-align: center;
+  
+}
+
+.social-links {
+  margin-top: 100px;
+}
+
+.social-links a {
+  display: inline-block;
+  margin: 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  color: #fff;
+  font-style: italic;
+  font-weight: 800;
+  font-size: 40px;
+  border-radius: 40px;
+  transition: opacity 2s,color 2s, box-shadow 2s;
+  
+}
+
+.social-links .whatsapp {
+  background-color: #25d366; 
+}
+
+.social-links .instagram {
+  background-color: #bc2a8d; 
+}
+
+.social-links .facebook {
+  background-color: #1877f2; 
+}
+
+.social-links .gmail {
+  background-color: #dd4b39; 
+}
+
+.social-links .twitter {
+  background-color: #0072c6; 
+}
+
+.social-links a:hover {
+  opacity: 0.7;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-left: 60px;
+  padding-right: 60px;
+  box-shadow: 14px 14px 14px black;
+  font-style: italic;
+  color: black;
+  
+}
+.note{
+  text-align: center;
+  font-size:40px ;
+  line-height: 200px;
+  font-style: italic;
+}
+.hey{
+  text-align: center;
+  font-size: 50px;
+  line-height: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:darkmagenta;
+}
